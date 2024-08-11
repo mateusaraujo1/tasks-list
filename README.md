@@ -23,7 +23,7 @@
 		<li>JavaScript</li>
 	</ul>
 </li>
-<li>back-end
+<li>Back-end
 	<ul>
 		<li>PHP</li>
 		<li>PDO</li>
