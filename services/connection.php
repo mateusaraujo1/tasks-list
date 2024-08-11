@@ -3,7 +3,7 @@
 class Connection 
 {
     private $host = 'localhost';
-    private $dbname = 'php_pdo';
+    private $dbname = 'tasks_list';
     private $user = 'root';
     private $pass = '';
 
