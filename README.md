@@ -1,6 +1,6 @@
 <h1>App Lista de Tarefas</h1>
 
-<p>Site criado para poder gerenciar minhas tarefas. Acesse clicando <a ref="http://mateusaraujo.shop">aqui<a></p>
+<p>Site criado para poder gerenciar minhas tarefas. Acesse clicando <a ref="http://mateusaraujo.shop">aqui</a></p>
 
 <p>⚙️ Funções ⚙️</p>
 
